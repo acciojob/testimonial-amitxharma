@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+.main{
+	background:#f5f5f5;
+	width:900px;
+	height:380px;
+	
+}
+h1{
+	padding:30px;
+	
+}
+.container1{
+	padding:5px 5px;
+	margin:-25px 20px;
+	border:1px solid black;
+	background:white;
+}
+.container2{
+	padding:5px 5px;
+	margin:50px 20px;
+	border:1px solid black;
+	background:white;
+}
+
+.container1 #doe{
+	text-align:right;
+	font-style:italic;
+}
+.container2 #smith {
+	text-align:right;
+	font-style:italic;
+}
